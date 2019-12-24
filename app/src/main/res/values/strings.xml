@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="backend_url">https://finalherokusms.herokuapp.com/sms</string>
+</resources>
